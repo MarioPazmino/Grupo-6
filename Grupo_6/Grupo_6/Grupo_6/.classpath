@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Grupo_6/src/main/java"/>
+	<classpathentry kind="lib" path="Grupo_6/mongo-java-driver-2.12.4.jar"/>
+	<classpathentry kind="output" path="Grupo_6/target/classes"/>
+</classpath>
